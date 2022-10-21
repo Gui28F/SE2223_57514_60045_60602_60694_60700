@@ -3,3 +3,11 @@
 (21/10/2022) Guilherme Fernandes(60045): 
 review Builder Design Pattern:
 The class location is not correct and you have a typo in the explanation
+
+(21/10/2022) Rafael Pereira(60700): 
+review Singleton: The class location is not correct but the pattern is right
+
+
+(21/10/2022) Rafael Martins(60602): 
+review Factory Pattern:  
+Class location has a duplicated directory but other than that everything looks good. The explanation is very good and detailed.

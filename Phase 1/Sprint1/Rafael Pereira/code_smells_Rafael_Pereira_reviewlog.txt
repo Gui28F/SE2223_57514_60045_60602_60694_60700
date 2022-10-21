@@ -1,4 +1,8 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
 
+(21/10/2022) Rafael Martins(60602):
+review Long Class:
+The class location is slightly wrong (should delete the "ganttproject" in the start). Other than that the explanation is good and so is the refactoring proposal. 
+
 (21/10/22) Pedro Lopes(57514):
 review code smell Too Many Comments: Wrong class location.

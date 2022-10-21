@@ -1,4 +1,7 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
 
+(21/10/2022) Rafael Pereira(60700): 
+review large class: For the refactoring proposal given it seems to make more sense to the code smell be large method
+
 (21/10/22) Pedro Lopes(57514):
 review code smell Shotgun Surgery: Nothing to correct, i agree with everything.

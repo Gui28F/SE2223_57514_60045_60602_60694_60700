@@ -1,3 +1,9 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
 
 (21/10/2022) Guilherme Fernandes(60045): review Abstract Factory. Nothing to say, I agree with everything that has been written
+
+(21/10/2022) Rafael Pereira(60700): review Builder: 
+Seems good, I agree with what was written
+
+(21/10/2022) Rafael Martins(60602): review Singleton- 
+Everything looks good. The class behaves exactly like explained and the design pattern is correctly identified.
