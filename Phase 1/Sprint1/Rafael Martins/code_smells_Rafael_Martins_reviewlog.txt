@@ -3,3 +3,7 @@
 (21/10/2022) Guilherme Fernandes(60045):
 review the code smell comments:
 The class location is not correct
+
+(21/10/22) Pedro Lopes(57514):
+review the code smell large class:
+Nothing to correct, i agree with everything.

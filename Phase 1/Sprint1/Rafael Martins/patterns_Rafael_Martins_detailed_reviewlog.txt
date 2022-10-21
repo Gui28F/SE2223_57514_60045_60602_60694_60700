@@ -1,3 +1,6 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
 
 (21/10/2022) Guilherme Fernandes(60045): review Factory Design Pattern. Change the way you write the class location, use "/" instead of "\" and put .java in class name
+
+(21/10/22) Pedro Lopes(57514):
+review Proxy Design Pattern: i think the explanation could be more clearer.

@@ -1,1 +1,4 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
+
+(21/10/22) Pedro Lopes(57514):
+review Adapter Design Pattern: The explanation is a bit too simple

@@ -1,1 +1,5 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
+
+(21/10/22) Pedro Lopes(57514):
+review Façade Design Pattern: Nothing to correct, the only sugestion would be to also metion 
+the other classes/interfaces that are part of the design.
