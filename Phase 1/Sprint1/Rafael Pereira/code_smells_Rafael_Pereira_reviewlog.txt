@@ -6,3 +6,7 @@ The class location is slightly wrong (should delete the "ganttproject" in the st
 
 (21/10/22) Pedro Lopes(57514):
 review code smell Too Many Comments: Wrong class location.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Long Method:
+the class location indicates a duplicated directory (ganttproject) and is split into two lines. Besides that, the explained code seems to be a very clear anti-pattern, and the refactoring proposal sounds great.

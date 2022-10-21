@@ -5,3 +5,6 @@
 (21/10/22) Pedro Lopes(57514):
 review Façade Design Pattern: Nothing to correct, the only sugestion would be to also metion 
 the other classes/interfaces that are part of the design.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Proxy: Nothing to disagree on, explanation is clear and code snippet seems fitting.

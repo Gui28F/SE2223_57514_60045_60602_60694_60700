@@ -7,3 +7,7 @@ The class location is not correct
 (21/10/22) Pedro Lopes(57514):
 review the code smell large class:
 Nothing to correct, i agree with everything.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Long Method:
+The class location is missing the .java extension, however the method seems too long indeed, and the refactoring proposal sounds reasonable.

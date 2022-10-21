@@ -5,3 +5,6 @@ review large class: For the refactoring proposal given it seems to make more sen
 
 (21/10/22) Pedro Lopes(57514):
 review code smell Shotgun Surgery: Nothing to correct, i agree with everything.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Comments: The class seems to have too many comments as stated in the explanation, but for refactoring I'd say just summarizing or even removing extensive comments would be sufficient.

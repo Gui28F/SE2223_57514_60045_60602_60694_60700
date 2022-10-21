@@ -6,3 +6,7 @@ Class location is slightly incorrect (duplicated "ganttproject"). The explanatio
 
 (21/10/22) Pedro Lopes(57514):
 review Adapter Design Pattern: The explanation is a bit too simple.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Façade:
+Everything seems fine, the explanation and the code snippet reflect the indicated design pattern pretty well.

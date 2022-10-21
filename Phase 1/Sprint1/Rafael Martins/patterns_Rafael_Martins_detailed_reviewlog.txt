@@ -4,3 +4,6 @@
 
 (21/10/22) Pedro Lopes(57514):
 review Proxy Design Pattern: i think the explanation could be more clearer.
+
+(21/10/2022) Pedro Fernandes(60694):
+review Façade: Class location is missing the .java extension, other than that everything looks good.
