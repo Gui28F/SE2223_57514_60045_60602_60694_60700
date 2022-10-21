@@ -1,1 +1,5 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
+
+(21/10/2022) Guilherme Fernandes(60045):
+review the code smell comments:
+The class location is not correct

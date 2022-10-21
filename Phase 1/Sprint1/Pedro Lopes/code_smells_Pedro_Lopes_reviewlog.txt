@@ -1,1 +1,5 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
+
+(21/10/2022) Guilherme Fernandes(60045): 
+review large parameter list:
+The class location is not correct and in the explanation try to explain what kind of object was created
