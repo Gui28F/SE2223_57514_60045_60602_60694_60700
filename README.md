@@ -14,7 +14,7 @@ GanttProject is distributed under GPLv3
 
 ### Guilherme
 - ProxyDocument.java **(Proxy)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - CalendarFactory.java **(Factory)**
 	- Reviewer: **Pereira**
 - UIFacadeImpl.java **(Facade)**
@@ -40,15 +40,15 @@ GanttProject is distributed under GPLv3
 - CalendarFactory.java **(Factory)**
 	- Reviewer: **Guilherme**
 - TreeUIFacade.java **(Facade)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - ReadOnlyProxyDocument.java **(Proxy)**
 	- Reviewer: **Lopes**
 
 ### Pereira
 - MiltonResourceFactory.java **(Factory)**
-	- Reviewer: ---
+	- Reviewer: **Pereira**
 - TaskTreeFacade.kt **(Facade)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - TaskListenerAdapter.kt **(Adapter)**
 	- Reviewer: **Lopes**
 
@@ -57,7 +57,7 @@ GanttProject is distributed under GPLv3
 
 ### Guilherme
 - Scalr.java **(Comments)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - DateParser.java **(Large class)**
 	- Reviewer: **Pereira**
 - DateParser.java **(Shotgun surgery)**
@@ -83,13 +83,13 @@ GanttProject is distributed under GPLv3
 - GanttCSVExport.java **(Comments)**
 	- Reviewer: **Guilherme**
 - GanttCSVExport.java **(Long method)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - GanttProject.java **(Large class)**
 	- Reviewer: **Lopes**
 
 ### Pereira
 - GanttOptions.java **(Long method)**
-	- Reviewer: ---
+	- Reviewer: **Fernandes**
 - GPTreeTableBase.java **(Large class)**
 	- Reviewer: ---
 - GPTreeTableBase.java **(Comments)**
