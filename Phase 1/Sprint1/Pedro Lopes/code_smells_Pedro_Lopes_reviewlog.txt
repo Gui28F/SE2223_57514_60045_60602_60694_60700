@@ -3,3 +3,7 @@
 (21/10/2022) Guilherme Fernandes(60045): 
 review large parameter list:
 The class location is not correct and in the explanation try to explain what kind of object was created
+
+(21/10/2022) Rafael Pereira(60700): 
+review no Comments: 
+The class location is not right but I agree with the code smell
