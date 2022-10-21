@@ -69,7 +69,7 @@ GanttProject is distributed under GPLv3
 - CalendarEditorPanel.java **(Large class)**
 	- Reviewer: **Pereira**
 - GanttChartController.java **(Shotgun surgery)**
-	- Reviewer: ---
+	- Reviewer: **Martins**
 
 ### Lopes
 - Offset.java **(Long parameter list)**
@@ -77,7 +77,7 @@ GanttProject is distributed under GPLv3
 - DependencySceneBuilder.java **(Comments)**
 	- Reviewer: **Pereira**
 - ProjectFileImporter.java **(Large class)**
-	- Reviewer: ---
+	- Reviewer: **Martins**
 
 ### Martins
 - GanttCSVExport.java **(Comments)**
@@ -91,6 +91,6 @@ GanttProject is distributed under GPLv3
 - GanttOptions.java **(Long method)**
 	- Reviewer: **Fernandes**
 - GPTreeTableBase.java **(Large class)**
-	- Reviewer: ---
+	- Reviewer: **Martins**
 - GPTreeTableBase.java **(Comments)**
 	- Reviewer: **Lopes**
