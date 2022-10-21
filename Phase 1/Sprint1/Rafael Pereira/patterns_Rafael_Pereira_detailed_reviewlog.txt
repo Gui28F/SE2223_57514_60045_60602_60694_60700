@@ -1,1 +1,5 @@
 ## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
+
+(21/10/2022) Rafael Martins (60602):
+review Factory Pattern:
+Class location is slightly incorrect (duplicated "ganttproject"). The explanation is good but I would change the part where it says "behind an interface" because this pattern is refering to a Class so it gets a bit confusing.

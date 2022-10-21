@@ -4,3 +4,6 @@
 
 (21/10/2022) Rafael Pereira(60700): review Builder: 
 Seems good, I agree with what was written
+
+(21/10/2022) Rafael Martins(60602): review Singleton- 
+Everything looks good. The class behaves exactly like explained and the design pattern is correctly identified.
