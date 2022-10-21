@@ -89,8 +89,8 @@ GanttProject is distributed under GPLv3
 
 ### Pereira
 - GanttOptions.java **(Long method)**
-	- Reviewer: **Fernandes**
-- GPTreeTableBase.java **(Large class)**
 	- Reviewer: **Martins**
+- GPTreeTableBase.java **(Large class)**
+	- Reviewer: **Fernandes**
 - GPTreeTableBase.java **(Comments)**
 	- Reviewer: **Lopes**
