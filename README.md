@@ -26,7 +26,7 @@ GanttProject is distributed under GPLv3
 - DependencySceneBuilder.java **(Builder)**
 	- Reviewer: **Pereira**
 - GanttLookAndFeels.java **(Singleton)**
-	- Reviewer: ---
+	- Reviewer: **Martins**
 
 ### Lopes
 - OffsetBuilderImpl.java **(Builder)**
@@ -34,7 +34,7 @@ GanttProject is distributed under GPLv3
 - GPcalendarProvider.java **(Singleton)**
 	- Reviewer: **Pereira**
 - ParserFactory.java **(Factory)**
-	- Reviewer: ---
+	- Reviewer: **Martins**
 
 ### Martins
 - CalendarFactory.java **(Factory)**
@@ -46,7 +46,7 @@ GanttProject is distributed under GPLv3
 
 ### Pereira
 - MiltonResourceFactory.java **(Factory)**
-	- Reviewer: **Pereira**
+	- Reviewer: **Martins**
 - TaskTreeFacade.kt **(Facade)**
 	- Reviewer: **Fernandes**
 - TaskListenerAdapter.kt **(Adapter)**
