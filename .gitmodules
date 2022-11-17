@@ -1,0 +1,3 @@
+[submodule "ganttproject"]
+	path = ganttproject
+	url = https://github.com/PedroMMRAF/ganttproject.git
