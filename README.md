@@ -2,8 +2,8 @@
 Main group project for Software Engeneering.
 
 ## Members
-- 57514
-- 60045
-- 60602
-- Pedro Miguel Moreira Requicha Alves Fernandes (60694)
-- 60700
+- Pedro Lopes (57514)
+- Guilherme Fernandes (60045)
+- Rafael Martins (60602)
+- Pedro Fernandes (60694)
+- Rafael Pereira (60700)

@@ -1,0 +1,125 @@
+Design Pattern Reviews
+
+Guilherme Fernandes:
+    (21/10/22) Rafael Pereira (60700): review Factory:
+    Seems good, I agree with what was written.
+
+    (21/10/22) Pedro Lopes (57514): review Facade:
+    Nothing to correct, the only sugestion would be to also metion the other
+    classes/interfaces that are part of the design.
+
+    (21/10/22) Pedro Fernandes (60694): review Proxy:
+    Nothing to disagree on, explanation is clear and code snippet seems fitting.
+
+Pedro Fernandes:
+    (21/10/22) Guilherme Fernandes (60045): review Abstract Factory:
+    Nothing to say, I agree with everything that has been written.
+
+    (21/10/22) Rafael Pereira(60700): review Builder: 
+    Seems good, I agree with what was written.
+
+    (21/10/22) Rafael Martins(60602): review Singleton:
+    Everything looks good. The class behaves exactly like explained and the
+    design pattern is correctly identified.
+
+Pedro Lopes:
+    (21/10/22) Guilherme Fernandes (60045): review Builder:
+    The class location is not correct and you have a typo in the explanation.
+
+    (21/10/22) Rafael Pereira (60700): review Singleton:
+    The class location is not correct but the pattern is right.
+
+    (21/10/22) Rafael Martins (60602): review Factory:  
+    Class location has a duplicated directory but other than that everything
+    looks good. The explanation is very good and detailed.
+
+Pedro Martins:
+    (21/10/22) Guilherme Fernandes (60045): review Factory:
+    Change the way you write the class location, use "/" instead of "\" and
+    put .java in class name.
+
+    (21/10/22) Pedro Lopes (57514): review Proxy:
+    I think the explanation could be more clearer.
+
+    (21/10/22) Pedro Fernandes (60694): review Facade:
+    Class location is missing the .java extension, other than that everything looks good.
+
+Rafael Pereira:
+    (21/10/2022) Rafael Martins (60602): review Factory:
+    Class location is slightly incorrect (duplicated "ganttproject").
+    The explanation is good but I would change the part where it says
+    "behind an interface" because this pattern is refering to a Class
+    so it gets a bit confusing.
+
+    (21/10/22) Pedro Lopes(57514): review Adapter:
+    The explanation is a bit too simple.
+
+    (21/10/2022) Pedro Fernandes(60694): review Facade:
+    Everything seems fine, the explanation and the code snippet reflect
+    the indicated design pattern pretty well.
+
+
+
+
+Code Smell Reviews
+
+Guilherme Fernandes:
+    (21/10/22) Rafael Pereira (60700): review Large Class:
+    For the refactoring proposal given it seems to make more sense
+    to the code smell be large method.
+
+    (21/10/22) Pedro Lopes (57514): review Shotgun Surgery:
+    Nothing to correct, i agree with everything.
+
+    (21/10/22) Pedro Fernandes (60694): review Comments:
+    The class seems to have too many comments as stated in the explanation,
+    but for refactoring I'd say just summarizing or even removing extensive
+    comments would be sufficient.
+
+Pedro Fernandes:
+    (21/10/22) Guilherme Fernandes(60045): review Comments:
+    Nothing to say, I agree with everything that has been written.
+
+    (21/10/22) Rafael Pereira(60700): review Large Class: 
+    Seems good, I agree with what was written.
+
+    (21/10/22) Rafael Martins(60602): review Shotgun Surgery: 
+    The code smell is correctly identified and the refactoring proposal
+    looks good so nothing to say.
+
+Pedro Lopes:
+    (21/10/22) Guilherme Fernandes (60045): review Large Parameter List:
+    The class location is not correct and in the explanation try to
+    explain what kind of object was created.
+
+    (21/10/22) Rafael Pereira (60700): review No Comments: 
+    The class location is not right but I agree with the code smell.
+
+    (21/10/22) Rafael Martins (60602): review Large Class:
+    I agree with the explanation, the class is too big and barely has any
+    comments explaining the methods. The refactoring proposal looks good aswell.
+
+Rafael Martins:
+    (21/10/22) Guilherme Fernandes (60045): review Comments:
+    The class location is not correct
+
+    (21/10/22) Pedro Lopes (57514): review Large Class:
+    Nothing to correct, i agree with everything.
+
+    (21/10/22) Pedro Fernandes (60694): review Long Method:
+    The class location is missing the .java extension, however the method
+    seems too long indeed, and the refactoring proposal sounds reasonable.
+
+Rafael Pereira:
+    (21/10/22) Rafael Martins (60602): review Long Class:
+    The class location is slightly wrong (should delete the "ganttproject"
+    in the start). Other than that the explanation is good and so is the
+    refactoring proposal. 
+
+    (21/10/22) Pedro Lopes (57514): review Too Many Comments:
+    Wrong class location.
+
+    (21/10/22) Pedro Fernandes (60694): review Long Method:
+    The class location indicates a duplicated directory (ganttproject)
+    and is split into two lines. Besides that, the explained code seems
+    to be a very clear anti-pattern, and the refactoring proposal sounds great.

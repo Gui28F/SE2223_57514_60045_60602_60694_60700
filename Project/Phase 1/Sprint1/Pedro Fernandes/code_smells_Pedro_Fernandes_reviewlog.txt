@@ -1,5 +1,3 @@
-## Identify the reviewer's name and list of comments to be addressed / points to be corrected / suggestions
-
 (21/10/2022) Guilherme Fernandes(60045): review code smell comments. Nothing to say, I agree with everything that has been written
 
 (21/10/2022) Rafael Pereira(60700): review Large class: 
