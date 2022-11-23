@@ -1,0 +1,9 @@
+Use case: Manage Tasks
+===============================================================================
+Description:
+The User manages the tasks. The User has to first create atleast one task to be
+able to edit it, and atleast two tasks to be able to create an association.
+===============================================================================
+Primary actor: User
+Secondary actor: None
+===============================================================================
