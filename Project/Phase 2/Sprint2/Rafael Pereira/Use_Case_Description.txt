@@ -1,0 +1,8 @@
+Use case: ExportProject
+===============================================================================
+Description:
+The User chooses a folder location and a file format for exporting the project.
+===============================================================================
+Primary actor: User
+Secondary actor: None
+===============================================================================
