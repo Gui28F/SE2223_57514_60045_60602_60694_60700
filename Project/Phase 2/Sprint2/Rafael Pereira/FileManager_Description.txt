@@ -1,0 +1,11 @@
+Use case: File Manager
+===============================================================================
+Description:
+The user can create a new project, load an existing gantt project from the machine or 
+save the current project. Besides that he can also export the project to other file 
+formats and last but not least, the user can import a file with the data needed 
+to generate a gantt project.
+===============================================================================
+Primary actor: User
+Secondary actor: System
+===============================================================================
