@@ -1,2 +1,5 @@
-## Identify the reviewer's name and list of comments
-## to be addressed / points to be corrected / suggestions
+(30/11/2022) Rafael Martins (60602):
+
+Each factor of the metric set is very well explained, making it easy to understand and analyze the values even for someone that didn't know what this metric set is related to.
+The trouble spots are also well identified and explained.
+I would add the name of the metric set to the start of the document just to be more easily identifiable, everything else looks good.
