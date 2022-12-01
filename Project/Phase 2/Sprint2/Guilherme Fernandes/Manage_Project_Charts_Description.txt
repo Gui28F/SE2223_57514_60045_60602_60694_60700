@@ -1,0 +1,11 @@
+Use case: Manage Project Charts
+===============================================================================
+Description:
+The User can choose the chart that is shown in the application window, and can
+control the zoom and the camera position on the diagram. 
+In the case of the tasks chart the user can also edit the baselines and make the 
+critic path be shown or not.
+===============================================================================
+Primary actor: User
+Secondary actor: System
+===============================================================================
