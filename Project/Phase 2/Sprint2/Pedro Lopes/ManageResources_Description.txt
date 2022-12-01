@@ -1,0 +1,10 @@
+Use case: Manage Resources
+===============================================================================
+Description:
+The User manages the system resources. The User can create new Resources, edit
+their data and delete them. It's also possible to send an email to a Resource
+based on the email address that was inserted in that Resource's data.
+===============================================================================
+Primary actor: User
+Secondary actor: None
+===============================================================================
