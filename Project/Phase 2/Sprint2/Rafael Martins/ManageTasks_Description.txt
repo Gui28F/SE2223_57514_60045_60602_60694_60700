@@ -3,7 +3,9 @@ Use case: Manage Tasks
 Description:
 The User manages the tasks. The User has to first create atleast one task to be
 able to edit it, and atleast two tasks to be able to create an association.
+When a task is created/deleted, or an association is created, the system has
+to change it's data structure accordingly.
 ===============================================================================
 Primary actor: User
-Secondary actor: None
+Secondary actor: System
 ===============================================================================
