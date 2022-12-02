@@ -1,0 +1,4 @@
+(2/12/2022) Rafael Pereira(60700):
+Breaking the Use Case into several Use Case Diagrams was good, as it made them easier to understand and read.
+Maybe change the name of the Diagram within the file, they still have the default name "UseCaseDiagram1". Other than 
+that, I have nothing else to say everything seems to be fine.
