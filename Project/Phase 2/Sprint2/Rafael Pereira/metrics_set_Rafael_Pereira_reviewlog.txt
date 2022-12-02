@@ -1,2 +1,3 @@
-## Identify the reviewer's name and list of comments
-## to be addressed / points to be corrected / suggestions
+(02/12/20022) Guilherme Fernandes:
+You need to add the graph with the metrics data.
+Even if the net.sourceforge.ganttproject.export.ConsoleUIFacade class is not complete, I think you could explain the current problem
