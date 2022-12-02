@@ -1796,7 +1796,7 @@
 											"top": 110.5,
 											"width": 176,
 											"height": 13,
-											"text": "Calculate Tasks Critical Paht"
+											"text": "Calculate Tasks Critical Path"
 										},
 										{
 											"_type": "LabelView",
@@ -4761,7 +4761,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Calculate Tasks Critical Paht",
+					"name": "Calculate Tasks Critical Path",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
