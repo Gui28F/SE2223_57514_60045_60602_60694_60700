@@ -1,0 +1,12 @@
+Use case: Manage Settings
+===============================================================================
+Description:
+The User changes settings to better fit their preference and/or necessities.
+The User can change General Settings that affect the visual part of the
+application, change the way that the application exports CSV or add FTP and
+WebDAV servers. When adding FTP server, the system may perform connection
+tests.
+===============================================================================
+Primary actor: User
+Secondary actor: System
+===============================================================================
