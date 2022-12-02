@@ -62,7 +62,7 @@
 											"top": 15,
 											"width": 319,
 											"height": 13,
-											"text": "ImportProject"
+											"text": "SaveProject"
 										},
 										{
 											"_type": "LabelView",
@@ -2666,7 +2666,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGEpVoS9+upjQg="
 					},
-					"name": "ImportProject"
+					"name": "SaveProject"
 				},
 				{
 					"_type": "UMLActor",
