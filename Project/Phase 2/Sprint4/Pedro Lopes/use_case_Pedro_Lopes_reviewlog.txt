@@ -1,2 +1,2 @@
-(02/12/2022) Rafael Pereira:
-I think that the "Input Resource Data" should also have a link to the "user", since the "user" is the one entering the data.
+(02/12/2022) Pedro Fernandes:
+The diagram looks good, but Input Resource Data is acted on by the User, so maybe there should be a link between them.
