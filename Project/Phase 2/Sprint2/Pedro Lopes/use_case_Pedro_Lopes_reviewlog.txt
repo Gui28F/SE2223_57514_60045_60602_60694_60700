@@ -1,2 +1,0 @@
-(02/12/2022) Rafael Pereira:
-I think that the "Input Resource Data" should also have a link to the "user", since the "user" is the one entering the data.
