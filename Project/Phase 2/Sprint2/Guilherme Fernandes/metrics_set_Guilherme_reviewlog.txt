@@ -1,2 +1,5 @@
-## Identify the reviewer's name and list of comments
-## to be addressed / points to be corrected / suggestions
+(2/12/2022) Pedro Lopes (57514):
+
+I think the linearly independent paths mentioned could be explained so that the meaning cyclomatic complexity 
+would be more clear to whoever is reading, besides that i think the values are very well explained and the solutions 
+presented are valid. 
