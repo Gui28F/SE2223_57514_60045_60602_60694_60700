@@ -1,0 +1,64 @@
+Use Case Reviews
+
+Guilherme Fernandes:
+	(2/12/22) Pedro Lopes (57514):
+	According to the user stories, it seems you mistyped Pert Chart, 
+	besides that everything looks good.
+
+Pedro Fernandes:
+	(2/12/2022) Rafael Pereira(60700):
+	Breaking the Use Case into several Use Case Diagrams was good, 
+	as it made them easier to understand and read.
+	Maybe change the name of the Diagram within the file, 
+	they still have the default name "UseCaseDiagram1". Other than 
+	that, I have nothing else to say everything seems to be fine.
+	
+Pedro Lopes:
+	(02/12/2022) Pedro Fernandes:
+	The diagram looks good, but Input Resource Data is acted on by the User,
+	so maybe there should be a link between them.
+
+Rafael Martins:
+	(02/12/2022) Guilherme Fernandes:
+	Nothing to say
+
+Rafael Pereira:
+	(30/11/2022) Rafael Martins(60602):
+	It was a good idea to split the Use Case into 5 so it becomes simpler to understand it. 
+	The 'SaveProject' Use Case has the wrong subject name inside it 
+	(it says 'Import Project' instead of 'Save Project') but other than that everything seems good.
+
+
+Metric Sets Reviews
+
+Guilherme Fernandes:
+	(2/12/2022) Pedro Lopes (57514):
+	I think the linearly independent paths mentioned could be explained so 
+	that the meaning cyclomatic complexity would be more clear to whoever is reading, 
+	besides that i think the values are very well explained and the solutions 
+	presented are valid. 
+
+Pedro Fernandes:
+	(04/12/2022) Rafael Pereira (60700):
+	In the "potential trouble spots" there are a few points that could perhaps be deepened, 
+	but other than that everything seems to be fine.
+
+Pedro Lopes:
+	(30/11/2022) Rafael Martins (60602):
+	Each factor of the metric set is very well explained, 
+	making it easy to understand and analyze the values even for someone that didn't 
+	know what this metric set is related to.
+	The trouble spots are also well identified and explained.
+	I would add the name of the metric set to the start of the document just to be 
+	more easily identifiable, everything else looks good.
+
+Rafael Martins:
+	(04/12/2022) Pedro Fernandes:
+	The document has no graph of the metrics data.
+	Besides that, the explanations provided and the data collected seems fine.
+
+Rafael Pereira:
+	(02/12/20022) Guilherme Fernandes:
+	You need to add the graph with the metrics data.
+	Even if the net.sourceforge.ganttproject.export.ConsoleUIFacade class is not complete,
+	I think you could explain the current problem.

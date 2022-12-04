@@ -33,7 +33,7 @@ Pedro Lopes:
     Class location has a duplicated directory but other than that everything
     looks good. The explanation is very good and detailed.
 
-Pedro Martins:
+Rafael Martins:
     (21/10/22) Guilherme Fernandes (60045): review Factory:
     Change the way you write the class location, use "/" instead of "\" and
     put .java in class name.
