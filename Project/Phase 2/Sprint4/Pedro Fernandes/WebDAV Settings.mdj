@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGExKNEKtli7S8="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "WebDAVSettings",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",

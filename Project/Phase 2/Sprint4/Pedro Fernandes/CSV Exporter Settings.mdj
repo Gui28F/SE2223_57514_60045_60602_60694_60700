@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGExKER1dczoZg="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "CSVExporterSettings",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",

@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGExJQ49mixkjs="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "GeneralSettings",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",

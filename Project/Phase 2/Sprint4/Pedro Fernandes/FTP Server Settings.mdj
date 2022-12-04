@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGExJoIjfxUWU8="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "FTPServerSettings",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",

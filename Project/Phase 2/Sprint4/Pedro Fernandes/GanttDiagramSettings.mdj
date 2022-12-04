@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGExJdgB3q/aO0="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "GanttDiagramSettings",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",
