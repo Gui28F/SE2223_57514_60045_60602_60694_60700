@@ -1,2 +1,4 @@
-## Identify the reviewer's name and list of comments
-## to be addressed / points to be corrected / suggestions
+(04/12/2022) Rafael Pereira (60700):
+
+In the "potential trouble spots" there are a few points that could perhaps be deepened, 
+but other than that everything seems to be fine.
